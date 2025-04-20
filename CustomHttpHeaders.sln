@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomHttpHeaders", "CustomHttpHeaders.csproj", "{00A9A2DF-E445-4732-8C0B-562BD527BFAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A9A2DF-E445-4732-8C0B-562BD527BFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A9A2DF-E445-4732-8C0B-562BD527BFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A9A2DF-E445-4732-8C0B-562BD527BFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A9A2DF-E445-4732-8C0B-562BD527BFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A361DD00-BD5B-48CC-BCC6-95B4B4A40D96}
+	EndGlobalSection
+EndGlobal
